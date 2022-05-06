@@ -50,4 +50,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Mock-Up
 
 
-* Link to video demonstration: https://drive.google.com/file/d/1P5v3u2HJ5x-z4WC1kU4-KJJC91B_WHEw/view
+* Link to video demonstration: https://drive.google.com/file/d/1IkFzg_YDaF5bfpmXnwmzi0bgOvm4tS_Z/view
